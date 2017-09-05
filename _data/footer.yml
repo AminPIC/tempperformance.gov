@@ -8,7 +8,7 @@ top: true
 links: footer
 
 # The optional heading for the footer.
-heading: Name of agency
+heading: General Services Administration
 
 # An array of agency logos to show, side by side, in the lower left
 # of the footer on large screens.
@@ -18,9 +18,7 @@ logos:
 
 contact:
   heading: Contact us
-  address: |
+  Email address: |
     This is formatted as **markdown**.
 
-    Lines separated by an empty line will each be marked up as paragraphs.
-
-    You can make links [like this](https://usa.gov).
+    PICStaff@pic.gov
