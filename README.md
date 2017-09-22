@@ -1,4 +1,4 @@
-# U.S. Web Design Standards template for Federalist
+# performance.gov
 This is a Federalist site template that incorporates the [U.S. Web Design
 Standards] [Jekyll theme].
 
